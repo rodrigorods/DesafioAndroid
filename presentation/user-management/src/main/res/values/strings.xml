@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PicPay</string>
+    <string name="title">Contatos</string>
+    <string name="error">Ocorreu um erro.\nTente novamente.</string>
+    <string name="retry_button">Tente novamente.</string>
+
+</resources>
